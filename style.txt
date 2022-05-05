@@ -1,0 +1,5 @@
+OpenRecentPanel, QListWidget{
+    background : rgb(75,71,67);
+    font : 14px
+
+}
